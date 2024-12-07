@@ -29,7 +29,7 @@ body{
     font-family: var(--font-padrao);
 }
 a.externo::after{
-  content:'\00A0\1F517';
+    content:'\00A0\1F517';
 }
 header{
     background-image:linear-gradient(to bottom,var(--cor3),var(--cor5)); 
